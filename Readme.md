@@ -22,3 +22,5 @@ Gdrive Link of Presentation: https://drive.google.com/file/d/1vZ96CziVmSu1oUSKbk
 Main Presentation on NYU Stream:   https://stream.nyu.edu/media/Running+Multi-Layer+Perceptron+Models+on+Homomorphically-Encrypted+Data/1_1xy8fn3z
 
 Bonus Content on NYU Stream:  https://stream.nyu.edu/media/Running+Multi-Layer+Perceptron+Models+on+Homomorphicall[…]Data+-+Bonus+Material++-+What+is+a+Lattice++++RLWE/1_l1o7fqrp
+
+Powerpoint Presentation: https://docs.google.com/presentation/d/1LJ--jKKHA7krFzwI4rQlGuk7HTRGzBw-t0OdSIiBgVs/edit#slide=id.p 
