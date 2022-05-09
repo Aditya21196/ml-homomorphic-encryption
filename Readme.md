@@ -1,6 +1,6 @@
 ## Setup
 
-Right now, pyfhel support is not supported on mac OS. We carried out all our experiments on a rented GCP server and/or repl.it (a website which provides isolated containerized environments to collaborate)
+Right now, pyfhel is not supported on mac OS. We carried out all our experiments on a rented GCP server and/or repl.it (a website which provides isolated containerized environments to collaborate)
 
 This setup is valid for a linux machine/server which has latest version of C++ and cmake installed.
 
