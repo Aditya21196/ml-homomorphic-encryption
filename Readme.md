@@ -15,7 +15,7 @@ To run client code, go to root of this repo and run:
 
 and navigate to "Client Code.ipynb". Change the IP address to whichever IP the server is hosted. If server is running on the same machine as "Client Code.ipynb" then let it remain "localhost"
 
-# Presentation Links
+## Presentation Links
 
 Gdrive Link of Presentation: https://drive.google.com/file/d/1vZ96CziVmSu1oUSKbk4_rGThANvHuQ74/view?ts=627878a4 
 
